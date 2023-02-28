@@ -5,5 +5,5 @@ My first project for creating a relational database for my research during my do
 
 Combining my notes with that of Craig's tutorial was a game changer for me. In this notebook, I present the amalgamated approach to creating an RDB using Craig's data. I intend to present a similar project I did using data pulled from Kaggle shortle. 
 
-### ### Applied Technologies
+### Applied Technologies
 - [Lucidchart](https://www.lucidchart.com/pages/) to make the diagrams.
